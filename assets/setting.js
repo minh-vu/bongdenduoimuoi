@@ -60,7 +60,7 @@ var Person = {
     pinterest: "0",
     linkedin: "0",
     google: "g",
-    CTA: "Tôi muốn có ngay Landing Page",
+    CTA: "",
 
 }
 
